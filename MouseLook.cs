@@ -1,3 +1,5 @@
+//MouseLook. Использовал для тренажера по технике безопасности в токарном цеху.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
