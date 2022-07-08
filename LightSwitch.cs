@@ -1,3 +1,5 @@
+//Включение/выключение света(компонент Light) с помощью выключателя
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
