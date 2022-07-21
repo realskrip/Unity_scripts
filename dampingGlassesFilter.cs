@@ -1,3 +1,5 @@
+// Затухание фильтра защитных очков при их надевании в VR Interaction Framework
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
